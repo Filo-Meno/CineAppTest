@@ -2,9 +2,9 @@
   "name": "cinefilo",
   "version": "1.0.0",
   "description": "",
-  "main": "routes.js",
+  "main": "index.js",
   "scripts": {
-    "start":"node routes.js"
+    "start":"node index.js"
   },
   "author": "",
   "license": "ISC",
